@@ -1,3 +1,12 @@
-theme: jekyll-theme-cayman
 title: Erick Maina
-description: I am a Fourth year student at Kenyatta University studying Information Technolog, full stack web development and  machine learning.
+logo: "IMG_20190321_180643.jpg?raw=true"
+description: >
+  Developer
+  <br><br>
+  I am a Fourth year student at Kenyatta University studying Information Technology,
+  My focus areas include android development, full stack web development, data analysis and  machine learning. 
+  <br><br>
+  <a href="https://linkedin.com/in/eric-nit-b154a0193">View My LinkedIn Profile</a> 
+  
+   
+theme: jekyll-theme-minimal
